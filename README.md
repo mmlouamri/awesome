@@ -1,4 +1,4 @@
-# Awesome list
+# Awesome
 
 This a list of articles, podcast, videos, etc. that I found interesting.
 
