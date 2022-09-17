@@ -12,6 +12,8 @@ This a list of articles, podcast, videos, etc. that I found interesting.
 ## Artificial Intelligence
 
 ### YouTube
+
+- [MIT 6.S191 (2020): Introduction to Deep Learning](https://www.youtube.com/watch?v=njKP3FqW3Sk)
 - [Why Neural Networks can learn (almost) anything](https://www.youtube.com/watch?v=0QczhVg5HaI)
 - [Deep Learning Basics: Introduction and Overview by Lex Fridman](https://www.youtube.com/watch?v=O5xeyoRL95U)
 
