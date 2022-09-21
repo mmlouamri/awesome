@@ -55,3 +55,5 @@ This a list of articles, podcast, videos, etc. that I found interesting.
 - [La supraconduction - exposé en ligne](https://www.youtube.com/watch?v=-MpW3F3gxXE)
 
 - [Les inégalités de BELL & les expériences d'Alain ASPECT](https://www.youtube.com/watch?v=28UN70790Do)
+
+- [Alain Aspect : Intrication quantique et inégalités de Bell [Interview complète]](https://www.youtube.com/watch?v=OeZ_63iKPho)
