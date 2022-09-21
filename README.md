@@ -51,3 +51,5 @@ This a list of articles, podcast, videos, etc. that I found interesting.
 - [Poetic Naturalism](https://www.youtube.com/watch?v=xv0mKsO2goA)
 
 - [How Semiconductors work](https://www.youtube.com/watch?v=33vbFFFn04k)
+
+- [La supraconduction - exposé en ligne](https://www.youtube.com/watch?v=-MpW3F3gxXE)
