@@ -53,3 +53,5 @@ This a list of articles, podcast, videos, etc. that I found interesting.
 - [How Semiconductors work](https://www.youtube.com/watch?v=33vbFFFn04k)
 
 - [La supraconduction - exposé en ligne](https://www.youtube.com/watch?v=-MpW3F3gxXE)
+
+- [Les inégalités de BELL & les expériences d'Alain ASPECT](https://www.youtube.com/watch?v=28UN70790Do)
