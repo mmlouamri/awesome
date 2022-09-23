@@ -4,10 +4,15 @@ This a list of articles, podcast, videos, etc. that I found interesting.
 
 ## Content
 
+- [Academics][#academics]
 - [Artificial Intelligence](#artificial-intelligence)
 - [Computer Science](#computer-science)
 - [Mathematics](#mathematics)
 - [Physics](#physics)
+
+## Academics
+### Articles
+- [A Survival Guide to a PhD](https://karpathy.github.io/2016/09/07/phd/)
 
 ## Artificial Intelligence
 
