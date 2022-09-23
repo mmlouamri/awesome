@@ -4,7 +4,7 @@ This a list of articles, podcast, videos, etc. that I found interesting.
 
 ## Content
 
-- [Academics][#academics]
+- [Academics](#academics)
 - [Artificial Intelligence](#artificial-intelligence)
 - [Computer Science](#computer-science)
 - [Mathematics](#mathematics)
