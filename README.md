@@ -44,6 +44,11 @@ This a list of articles, podcast, videos, etc. that I found interesting.
 - [Researchers Use Group Theory to Speed Up Algorithms — Introduction to Groups](https://www.youtube.com/watch?v=KufsL2VgELo)
 
 - [What Lies Between a Function and Its Derivative? (SoME2) | Fractional Calculus](https://www.youtube.com/watch?v=2dwQUUDt5Is)
+## Quantum Technologies
+
+### YouTube
+
+- [VQE | Zero to Hero](https://www.youtube.com/watch?v=TUFovZsBcW4)
 
 ## Physics
 
