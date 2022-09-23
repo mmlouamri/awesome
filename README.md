@@ -51,6 +51,7 @@ This a list of articles, podcast, videos, etc. that I found interesting.
 
 - [VQE | Zero to Hero](https://www.youtube.com/watch?v=TUFovZsBcW4)
 - [Quantum Computing Keynote by whurley](https://youtu.be/8EVQV5gY8O8?t=160)
+  - [Shor's Algorithm](https://youtu.be/8EVQV5gY8O8?t=1288)   
 
 ## Physics
 
