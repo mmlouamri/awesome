@@ -15,12 +15,8 @@ This a list of articles, podcast, videos, etc. that I found interesting.
 - [A Survival Guide to a PhD](https://karpathy.github.io/2016/09/07/phd/)
 
 ## Artificial Intelligence
-
-### YouTube
-
-- [MIT 6.S191 (2020): Introduction to Deep Learning](https://www.youtube.com/watch?v=njKP3FqW3Sk)
-- [Why Neural Networks can learn (almost) anything](https://www.youtube.com/watch?v=0QczhVg5HaI)
-- [Deep Learning Basics: Introduction and Overview by Lex Fridman](https://www.youtube.com/watch?v=O5xeyoRL95U)
+### Articles
+- [Deep Learning with PyTorch: A 60min Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
 
 ### Podcast
 
@@ -29,6 +25,12 @@ This a list of articles, podcast, videos, etc. that I found interesting.
 ### Websites
 
 - [MIT 6.S191 - Introduction to Deep Learning](http://introtodeeplearning.com/)
+
+### YouTube
+
+- [MIT 6.S191 (2020): Introduction to Deep Learning](https://www.youtube.com/watch?v=njKP3FqW3Sk)
+- [Why Neural Networks can learn (almost) anything](https://www.youtube.com/watch?v=0QczhVg5HaI)
+- [Deep Learning Basics: Introduction and Overview by Lex Fridman](https://www.youtube.com/watch?v=O5xeyoRL95U)
 
 
 ## Computer Science
