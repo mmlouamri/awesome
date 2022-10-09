@@ -17,6 +17,7 @@ This a list of articles, podcast, videos, etc. that I found interesting.
 ## Artificial Intelligence
 ### Articles
 - [Deep Learning with PyTorch: A 60min Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
+
 - [The Neural Network Zoo](https://www.asimovinstitute.org/neural-network-zoo/)
 ### Podcast
 
@@ -29,6 +30,7 @@ This a list of articles, podcast, videos, etc. that I found interesting.
 ### YouTube
 
 - [Why Neural Networks can learn (almost) anything](https://www.youtube.com/watch?v=0QczhVg5HaI)
+
 - [Deep Learning Basics: Introduction and Overview by Lex Fridman](https://www.youtube.com/watch?v=O5xeyoRL95U)
 
 
@@ -37,7 +39,10 @@ This a list of articles, podcast, videos, etc. that I found interesting.
 ### YouTube
 
 - [15 Sorting Algorithms in 6 Minutes](https://www.youtube.com/watch?v=kPRA0W1kECg)
+
 - [How Computers Work](https://www.youtube.com/playlist?list=PLFt_AvWsXl0dPhqVsKt1Ni_46ARyiCGSq)
+
+- [Level up your Python](https://henryiii.github.io/level-up-your-python/notebooks/0%20Intro.html)
 
 ## Mathematics
 
