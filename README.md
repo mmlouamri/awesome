@@ -17,7 +17,7 @@ This a list of articles, podcast, videos, etc. that I found interesting.
 ## Artificial Intelligence
 ### Articles
 - [Deep Learning with PyTorch: A 60min Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
-
+- [The Neural Network Zoo](https://www.asimovinstitute.org/neural-network-zoo/)
 ### Podcast
 
 - [#258 | Yann LeCun: Dark Matter of Intelligence and Self-Supervised Learning | Lex Fridman Podcast](https://open.spotify.com/episode/6NJt7waroZKSbkt9sZlD7I)
@@ -28,7 +28,6 @@ This a list of articles, podcast, videos, etc. that I found interesting.
 
 ### YouTube
 
-- [MIT 6.S191 (2020): Introduction to Deep Learning](https://www.youtube.com/watch?v=njKP3FqW3Sk)
 - [Why Neural Networks can learn (almost) anything](https://www.youtube.com/watch?v=0QczhVg5HaI)
 - [Deep Learning Basics: Introduction and Overview by Lex Fridman](https://www.youtube.com/watch?v=O5xeyoRL95U)
 
