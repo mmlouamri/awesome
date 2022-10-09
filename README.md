@@ -52,12 +52,16 @@ This a list of articles, podcast, videos, etc. that I found interesting.
 ### YouTube
 
 - [VQE | Zero to Hero](https://www.youtube.com/watch?v=TUFovZsBcW4)
+
 - [Quantum Computing Keynote by whurley](https://youtu.be/8EVQV5gY8O8?t=160)
   - [Shor's Algorithm](https://youtu.be/8EVQV5gY8O8?t=1288)   
+  
 - [The Story of Shor's Algorithm, Straight From the Source | Peter Shor](https://www.youtube.com/watch?v=6qD9XElTpCE)
   - [Simon's, discrete log, and factoring problems](https://youtu.be/6qD9XElTpCE?t=480)
   - [Error correction](https://youtu.be/6qD9XElTpCE?t=1115)
   - [Quantum error correction](https://youtu.be/6qD9XElTpCE?t=1345)
+  
+- [How Quantum Computers Break Encryption | Shor's Algorithm Explained](https://www.youtube.com/watch?v=lvTqbM5Dq4Q)
 
 ## Physics
 
@@ -78,3 +82,5 @@ This a list of articles, podcast, videos, etc. that I found interesting.
 - [Alain Aspect : Intrication quantique et inégalités de Bell [Interview complète]](https://www.youtube.com/watch?v=OeZ_63iKPho)
 
 - [Introduction To Quantum Mechanics](https://www.youtube.com/playlist?list=PLdxkCJfNemiPi7trjybclrjPYi8gxlGKT)
+
+- [Intro to Special Relativity Course](https://www.youtube.com/playlist?list=PLoaVOjvkzQtyjhV55wZcdicAz5KexgKvm)
