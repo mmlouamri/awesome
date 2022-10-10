@@ -56,6 +56,13 @@ This a list of articles, podcast, videos, etc. that I found interesting.
 
 ### YouTube
 
+- [Introduction to Quantum Computing : William Oliver - MIT](https://www.youtube.com/watch?v=lK6fC8E1XPE)
+  - [Computing Development Timeline](https://youtu.be/lK6fC8E1XPE?t=170)
+  - [How is a Quantum Computer Different?](https://youtu.be/lK6fC8E1XPE?t=400)
+  - [Quantum Algorithm](https://youtu.be/lK6fC8E1XPE?t=920)
+  - [Superconducting qubit](https://youtu.be/lK6fC8E1XPE?t=1445) 
+  - [Quantum Errror Correction analogy with Lacrosse](https://youtu.be/lK6fC8E1XPE?t=2045)
+  
 - [VQE | Zero to Hero](https://www.youtube.com/watch?v=TUFovZsBcW4)
 
 - [Quantum Computing Keynote by whurley](https://youtu.be/8EVQV5gY8O8?t=160)
