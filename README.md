@@ -9,7 +9,7 @@ This a list of articles, podcast, videos, etc. that I found interesting.
 - [Computer Science](#computer-science)
 - [Mathematics](#mathematics)
 - [Physics](#physics)
-
+- [Web Dev](#web-dev)
 ## Academics
 ### Articles
 - [A Survival Guide to a PhD](https://karpathy.github.io/2016/09/07/phd/)
@@ -96,3 +96,9 @@ This a list of articles, podcast, videos, etc. that I found interesting.
 - [Introduction To Quantum Mechanics](https://www.youtube.com/playlist?list=PLdxkCJfNemiPi7trjybclrjPYi8gxlGKT)
 
 - [Intro to Special Relativity Course](https://www.youtube.com/playlist?list=PLoaVOjvkzQtyjhV55wZcdicAz5KexgKvm)
+
+
+## Web Dev
+
+### Youtube
+- [What the heck is the event loop anyway? | Philip Roberts | JSConf EU](https://www.youtube.com/watch?v=8aGhZQkoFbQ&ab_channel=JSConf)
