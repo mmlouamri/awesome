@@ -63,6 +63,8 @@ This a list of articles, podcast, videos, etc. that I found interesting.
   - [Superconducting qubit](https://youtu.be/lK6fC8E1XPE?t=1445) 
   - [Quantum Errror Correction analogy with Lacrosse](https://youtu.be/lK6fC8E1XPE?t=2045)
   
+- [Understanding Quantum Information and Computation | Lesson 1](https://www.youtube.com/watch?v=3-c4xJa7Flk)
+
 - [VQE | Zero to Hero](https://www.youtube.com/watch?v=TUFovZsBcW4)
 
 - [Quantum Computing Keynote by whurley](https://youtu.be/8EVQV5gY8O8?t=160)
