@@ -25,6 +25,8 @@ This repository is a collection of interesting technical resources that I have f
 
 - [#258 | Yann LeCun: Dark Matter of Intelligence and Self-Supervised Learning | Lex Fridman Podcast](https://open.spotify.com/episode/6NJt7waroZKSbkt9sZlD7I)
 
+- [MIT 6.S191 - Introduction to Deep Learning](http://introtodeeplearning.com/)
+
 ## Computer Science
 
 ## Mathematics
