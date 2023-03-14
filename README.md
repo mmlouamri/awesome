@@ -21,6 +21,7 @@ This repository is a collection of interesting technical resources that I have f
 ## Artificial Intelligence
 
 - [Deep Learning with PyTorch: A 60min Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
+- [The Neural Network Zoo](https://www.asimovinstitute.org/neural-network-zoo/)
 
 ## Computer Science
 
