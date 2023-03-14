@@ -16,6 +16,8 @@ This repository is a collection of interesting technical resources that I have f
 
 ## Academia
 
+- [A Survival Guide to a PhD](https://karpathy.github.io/2016/09/07/phd/)
+
 ## Artificial Intelligence
 
 ## Computer Science
