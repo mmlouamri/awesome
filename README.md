@@ -27,6 +27,7 @@ This repository is a collection of interesting technical resources that I have f
 
 - [MIT 6.S191 - Introduction to Deep Learning](http://introtodeeplearning.com/)
 
+- [Why Neural Networks can learn (almost) anything](https://www.youtube.com/watch?v=0QczhVg5HaI)
 ## Computer Science
 
 ## Mathematics
