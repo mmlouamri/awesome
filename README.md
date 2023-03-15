@@ -31,6 +31,12 @@ This repository is a collection of interesting technical resources that I have f
 
 - [Deep Learning Basics: Introduction and Overview by Lex Fridman](https://www.youtube.com/watch?v=O5xeyoRL95U)
 
+- [Comment ces IA inventent-elles des images ? (Stable Diffusion, Midjourney, and DALL-E)](https://www.youtube.com/watch?v=tdelUss-5hY)
+  - [Supervised Learning](https://youtu.be/tdelUss-5hY?t=140)
+  - [Generative Adversial Nets (GANs)](https://youtu.be/tdelUss-5hY?t=450)
+  - [Supervised vs Unsupervised learning](https://youtu.be/tdelUss-5hY?t=644)
+  - [Diffusion models](https://youtu.be/tdelUss-5hY?t=920)
+
 ## Computer Science
 
 ## Mathematics
