@@ -50,6 +50,8 @@ This repository is a collection of interesting technical resources that I have f
 
 ## Computer Science
 
+- [15 Sorting Algorithms in 6 Minutes](https://www.youtube.com/watch?v=kPRA0W1kECg)
+
 ## Mathematics
 
 ## Quantum
