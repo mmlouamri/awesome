@@ -61,6 +61,7 @@ This repository is a collection of interesting technical resources that I have f
   - [Strategy](https://youtu.be/tAuRQs_d9F8?t=388)
   - [Adapter](https://youtu.be/tAuRQs_d9F8?t=438)
   - [Facade](https://youtu.be/tAuRQs_d9F8?t=502)
+
 ## Mathematics
 
 ## Quantum
@@ -68,3 +69,5 @@ This repository is a collection of interesting technical resources that I have f
 ## Physics
 
 ## Web
+
+- [What the heck is the event loop anyway? | Philip Roberts | JSConf EU](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
