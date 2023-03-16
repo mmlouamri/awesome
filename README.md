@@ -52,6 +52,15 @@ This repository is a collection of interesting technical resources that I have f
 
 - [15 Sorting Algorithms in 6 Minutes](https://www.youtube.com/watch?v=kPRA0W1kECg)
 
+- [8 Design Patterns EVERY Developer Should Know](https://www.youtube.com/watch?v=tAuRQs_d9F8)
+  - [Factory](https://youtu.be/tAuRQs_d9F8?t=45)
+  - [Builder](https://youtu.be/tAuRQs_d9F8?t=95)
+  - [Singleton](https://youtu.be/tAuRQs_d9F8?t=143)
+  - [Observer](https://youtu.be/tAuRQs_d9F8?t=218)
+  - [Iterator](https://youtu.be/tAuRQs_d9F8?t=312)
+  - [Strategy](https://youtu.be/tAuRQs_d9F8?t=388)
+  - [Adapter](https://youtu.be/tAuRQs_d9F8?t=438)
+  - [Facade](https://youtu.be/tAuRQs_d9F8?t=502)
 ## Mathematics
 
 ## Quantum
