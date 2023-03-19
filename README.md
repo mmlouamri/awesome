@@ -65,7 +65,13 @@ This repository is a collection of interesting technical resources that I have f
 ## Mathematics
 
 ## Quantum
-
+- [Introduction to Quantum Computing : William Oliver - MIT](https://www.youtube.com/watch?v=lK6fC8E1XPE)
+  - [Computing Development Timeline](https://youtu.be/lK6fC8E1XPE?t=170)
+  - [How is a Quantum Computer Different?](https://youtu.be/lK6fC8E1XPE?t=400)
+  - [Quantum Algorithm](https://youtu.be/lK6fC8E1XPE?t=920)
+  - [Superconducting qubit](https://youtu.be/lK6fC8E1XPE?t=1445) 
+  - [Quantum Errror Correction analogy with Lacrosse](https://youtu.be/lK6fC8E1XPE?t=2045)
+  
 ## Physics
 
 ## Web
