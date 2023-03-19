@@ -82,6 +82,8 @@ This repository is a collection of interesting technical resources that I have f
 
 - [Les inégalités de BELL & les expériences d'Alain ASPECT](https://www.youtube.com/watch?v=28UN70790Do)
 
+- [Intro to Special Relativity Course](https://www.youtube.com/playlist?list=PLoaVOjvkzQtyjhV55wZcdicAz5KexgKvm)
+
 ## Web
 
 - [What the heck is the event loop anyway? | Philip Roberts | JSConf EU](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
