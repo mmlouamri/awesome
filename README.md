@@ -71,7 +71,13 @@ This repository is a collection of interesting technical resources that I have f
   - [Quantum Algorithm](https://youtu.be/lK6fC8E1XPE?t=920)
   - [Superconducting qubit](https://youtu.be/lK6fC8E1XPE?t=1445) 
   - [Quantum Errror Correction analogy with Lacrosse](https://youtu.be/lK6fC8E1XPE?t=2045)
-  
+ 
+- [The Story of Shor's Algorithm, Straight From the Source | Peter Shor](https://www.youtube.com/watch?v=6qD9XElTpCE)
+  - [Simon's, discrete log, and factoring problems](https://youtu.be/6qD9XElTpCE?t=480)
+  - [Error correction](https://youtu.be/6qD9XElTpCE?t=1115)
+  - [Quantum error correction](https://youtu.be/6qD9XElTpCE?t=1345)
+
+
 ## Physics
 
 ## Web
